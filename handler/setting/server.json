@@ -1,0 +1,9 @@
+{
+      "bad" : "./database/bad.json",
+      "image" : "./database/imagi.json",
+      "vn" : "./database/vien.json",
+      "stick" : "./database/setik.json",
+      "serverResponden" : "./commands.json",
+      "muted" : "./database/mute.json"
+}
+      

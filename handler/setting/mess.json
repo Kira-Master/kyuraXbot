@@ -1,0 +1,27 @@
+{
+    "actioncall": "*•IND*\nMaaf Otomatis Di Blokir Oleh Sistem, Tolong Jangan Telepon Nomor Ini, Saya Udah Rakit Khusus Dengan Penuh Keamanan Bot.\n\n*•ENG*\nSorry Automatically Blocked By The System, Please Don't Call This Number, I've Specially Assembled With Fully Bot Security.",
+    "wait": "*_Tunggu permintaan anda sedang diproses_*",
+    "pratex": "Silahkan Masukkan Teks Anda.",
+    "success": {
+    "ses": "Berhasil",
+    "caseon": "Succes Mengaktifkan Fitur Tersebut",
+    "caseoff": "Succes Menonaktifkan Fitur Tersebut"
+    },
+    "onoff": "Silahkam Masukkan prameter on/off",
+    "fromMe": {
+        "self": "*MODE:* Self\n_Saat Mode Self, Hanya Owner Yang Dapat Menerima Perintah Oleh Bot_",
+        "public": "*MODE:* Public\n_Saat Mode Public, Semua Orang Dapat Menerima Perintah Oleh Bot_"
+    },
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Maaf terjadi kesalahan"
+    },
+    "antiE": "「 *ERROR* 」Perintah Tersebut Sudah Diaktifkan Sebelumnya.",
+    "antiA": " 「 *ERROR*」Perintah Tersebut Sudah Dinonaktifkan Sebelumnya.",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+}

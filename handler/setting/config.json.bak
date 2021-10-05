@@ -1,0 +1,34 @@
+{
+    "packName": "ⲂⲟⲦz ʀɪᴍᴜʀᴜ࿐",
+    "reason": "Sedang Sibuk",
+    "authName": "Create By  @ⲂⲟⲦz ʀɪᴍᴜʀᴜ࿐",
+    "handler": "./index.js",
+    "session": "./rimuru/session/session.json",
+    "numberNon": "6282277669861",
+    "botNumberNon": "6285221604446",
+    "ownerNumber": [
+        "6282277669861@s.whatsapp.net",
+        "6285222604446@s.whatsapp.net"
+    ],
+   "ownerTunggal": "6282277669861@s.whatsapp.net",
+   "style" : {
+   "satu":"•",
+   "dua":"⎙"
+   },
+   "this": {
+   "ponsel": "ponsel",
+   "compossing": "```",
+   "shp": "⬡",
+   "bulat": "⭕", 
+   "silang": "❌", 
+   "panah": "👈",
+   "undefined": "-",
+   "version": {
+   "bot": "v 19. 3. 6",
+   "baileys" : "v 3.5.2"
+   }
+     },
+   "ownernama": "Rimuru Tempest",
+   "revokedd": "6285221604446-1629287518@g.us",
+   "codeinvit": "EiznDZqIWu40QPVO0Q9MVn"
+     }
